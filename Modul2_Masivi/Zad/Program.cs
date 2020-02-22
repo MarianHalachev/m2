@@ -12,6 +12,7 @@ namespace Zad
         {
             int[] num = { 1, 2, 3, 4, 5, 6 };
             int sum = 0;
+
             for (int i = 0; i <num.Length; i++)
             {
                 if (num[i]%2==0)
@@ -19,15 +20,9 @@ namespace Zad
                     sum = num[i] + sum;
                 }
             }
+
             Console.WriteLine(sum);
-
-
-
-
-
-
-
-
+           
 
             //foreach (var item in num)
             //{
