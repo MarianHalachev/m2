@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_PP_Masiv_Demo", "09_PP_M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_PP_Masiv_zad1", "09_PP_Masiv_zad1\09_PP_Masiv_zad1.csproj", "{E0037EDB-9AC5-4A3B-8E88-5CD7DABEEFD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masivi_Vhod_Na_Edin_Red", "Masivi_Vhod_Na_Edin_Red\Masivi_Vhod_Na_Edin_Red.csproj", "{E7685EF2-65F9-4971-9106-754BEC070261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_PP_Zad2_Reverse", "10_PP_Zad2_Reverse\10_PP_Zad2_Reverse.csproj", "{BE028BBA-8F12-4549-8D02-0C5A064EBD3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{E0037EDB-9AC5-4A3B-8E88-5CD7DABEEFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0037EDB-9AC5-4A3B-8E88-5CD7DABEEFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0037EDB-9AC5-4A3B-8E88-5CD7DABEEFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7685EF2-65F9-4971-9106-754BEC070261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7685EF2-65F9-4971-9106-754BEC070261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7685EF2-65F9-4971-9106-754BEC070261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7685EF2-65F9-4971-9106-754BEC070261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE028BBA-8F12-4549-8D02-0C5A064EBD3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE028BBA-8F12-4549-8D02-0C5A064EBD3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE028BBA-8F12-4549-8D02-0C5A064EBD3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE028BBA-8F12-4549-8D02-0C5A064EBD3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
