@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Word_Zad3", "10_Word_Zad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad", "Zad\Zad.csproj", "{91569D69-1281-4610-A3F7-D369C2BC9704}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masivi_Sort_Reverse", "Masivi_Sort_Reverse\Masivi_Sort_Reverse.csproj", "{605E6F8B-32D9-41B6-82B1-ADD01527C966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mnogomeren_Masiv", "Mnogomeren_Masiv\Mnogomeren_Masiv.csproj", "{315B96B4-0B89-4A51-A4EE-60086E15F6AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{91569D69-1281-4610-A3F7-D369C2BC9704}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91569D69-1281-4610-A3F7-D369C2BC9704}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91569D69-1281-4610-A3F7-D369C2BC9704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{605E6F8B-32D9-41B6-82B1-ADD01527C966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605E6F8B-32D9-41B6-82B1-ADD01527C966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605E6F8B-32D9-41B6-82B1-ADD01527C966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605E6F8B-32D9-41B6-82B1-ADD01527C966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{315B96B4-0B89-4A51-A4EE-60086E15F6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315B96B4-0B89-4A51-A4EE-60086E15F6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315B96B4-0B89-4A51-A4EE-60086E15F6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315B96B4-0B89-4A51-A4EE-60086E15F6AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
