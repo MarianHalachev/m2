@@ -13,17 +13,33 @@ namespace _15_Word_Zad2
             List<int> num = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
 
             int a = num[num.Count-1];
-            for (int i = 0; i < num.Count; i++)
-            {
-                if (a==num[i])
-                {
-                    num.Remove(num[i]);
-                }
+            int br = 0;
 
+
+            while (num.Contains(a))
+            {
+                num.Remove(a);
+                br++;
             }
-            Console.WriteLine(string.Join(" ",num));
-         
+                 
             
+            Console.WriteLine(string.Join(" ", num));
+            Console.WriteLine(br);
+
+
+
+
+            //for (int i = 0; i < num.Count; i++)
+            //{
+            //    if (a==num[i])
+            //    {
+            //        num.Remove(num[i]);
+            //    }
+
+            //}
+
+
+
         }
     }
 }
