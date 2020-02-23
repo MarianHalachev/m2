@@ -36,6 +36,7 @@ namespace Mnogomeren_Masiv
                 double avg = sum / 3;
                 Console.WriteLine(avg);
                 
+
             } 
             
         }

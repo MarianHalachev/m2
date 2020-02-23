@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spisuk_Demo", "Spisuk_Demo\Spisuk_Demo.csproj", "{FB999C9A-DB2B-4185-9636-80F81C98186B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Word_zad3", "14_Word_zad3\14_Word_zad3.csproj", "{D40FA14F-D9DF-4B67-A4DF-2C33396F5F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_Word_Zad2", "15_Word_Zad2\15_Word_Zad2.csproj", "{51BC4D31-8D15-43D5-AFC4-60EDE49730F1}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB999C9A-DB2B-4185-9636-80F81C98186B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB999C9A-DB2B-4185-9636-80F81C98186B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB999C9A-DB2B-4185-9636-80F81C98186B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB999C9A-DB2B-4185-9636-80F81C98186B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40FA14F-D9DF-4B67-A4DF-2C33396F5F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40FA14F-D9DF-4B67-A4DF-2C33396F5F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40FA14F-D9DF-4B67-A4DF-2C33396F5F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40FA14F-D9DF-4B67-A4DF-2C33396F5F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51BC4D31-8D15-43D5-AFC4-60EDE49730F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51BC4D31-8D15-43D5-AFC4-60EDE49730F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51BC4D31-8D15-43D5-AFC4-60EDE49730F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51BC4D31-8D15-43D5-AFC4-60EDE49730F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
